@@ -14,7 +14,7 @@ import io
 import nltk
 nltk.download('punkt')
 
-st.set_page_config(page_title='SummarizeToday: A Summarised News📰 Portal', page_icon='./Meta/newspaper.ico')
+st.set_page_config(page_title='SummarizeToday: A Summarised News📰 Portal', page_icon='C:/Users/Sanchari/Desktop/Cse/projects/SummarizeToday/Meta/newspaper.ico')
 
 
 def fetch_news_search_topic(topic):
