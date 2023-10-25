@@ -2,6 +2,15 @@
 
 **SummarizeToday** is a Python script and Streamlit web application that allows users to fetch and display news articles from Google News. The script utilizes web scraping techniques to collect news articles, while the web application provides an interactive and user-friendly interface to access and summarize news content.
 
+## Demo
+* The UI :
+<img width="960" alt="image" src="https://github.com/Sanchariii/SummarizeToday/assets/88083502/fb48b4af-b40a-4884-9cb0-1a27b661ddbf">
+
+* The Summarized News :
+  <img width="960" alt="image" src="https://github.com/Sanchariii/SummarizeToday/assets/88083502/876544f6-c668-4466-bc4d-1a3c6dfb684d">
+
+
+
 ## Features
 
 - Choose from a variety of news categories.
